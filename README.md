@@ -8,8 +8,8 @@ Este projeto simula um cenário complexo de expansão da rede de varejo Walmart 
 > 📂 **Nota:** Para fins de preservação e facilidade de acesso, uma cópia do arquivo original (`Walmart_sales_analysis.csv`) também está disponível na pasta **[Dataset](./Datasets)** deste repositório.
 <br>
 
-Um artigo descrevendo toda a saga que essa remodelagem acabou se transformando estará disponível, muito em breve. Assim que estiver pronto, substituirei esssa linha pelo link para acesso.
-<br>
+Um artigo descrevendo como a remodelagem desse dataset disponibilizado pelo Kaggle acabou se tornando uma saga estará disponível, muito em breve. Assim que estiver pronto, substituirei esta linha pelo link para acesso.
+<br><br>
 
 🔗 **[Clique Aqui para acessar o dashboard interativo](link_em_breve)**
 <br>
