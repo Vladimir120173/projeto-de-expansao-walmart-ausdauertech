@@ -9,6 +9,7 @@ Este projeto simula um cenário complexo de expansão da rede de varejo Walmart 
 
 🔗 **[CLIQUE AQUI PARA ACESSAR O DASHBOARD INTERATIVO](link_em_breve)**
 
+**Importante:** Caso o link esteja indisponível, seja por ter expirado, seja por manutenção ou qualquer outro motivo, ainda assim é possível acessar o relatório baixando o arquivo .pbix que está disponível na pasta Project deste repositório.
 ---
 
 ## 🛠️ Engenharia e Tecnologias
