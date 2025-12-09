@@ -1,24 +1,24 @@
-# 📊 Relatório Estratégico de Varejo: Case Walmart
+# Relatório Estratégico de Varejo: Case Walmart
 
 ![Tela Inicial](Imagens/1.Tela_Inicial.png)
 
-## 🚀 Visão Geral
+## Visão Geral
 Este projeto simula um cenário complexo de expansão da rede de varejo Walmart em um país fictício ao longo de 9 anos (2016-2025) e como o **Relatório de Dados Estratégico** permitiu à diretoria analisar o impacto de inaugurações, a eficiência regional e as correlações com indicadores macroeconômicos. O relatório foi gerado após a remodelagem e a ampliação de um dataset simples, disponibilizado pelo [Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales).
 
-> 📂 **Nota:** Para fins de preservação e facilidade de acesso, uma cópia do arquivo original (`Walmart_sales_analysis.csv`) também está disponível na pasta **[Dataset](./Datasets)** deste repositório.
+> **Nota:** Para fins de preservação e facilidade de acesso, uma cópia do arquivo original (`Walmart_sales_analysis.csv`) também está disponível na pasta **[Dataset](./Datasets)** deste repositório.
 <br>
 
 Um artigo descrevendo como a remodelagem desse dataset disponibilizado pelo Kaggle acabou se tornando uma saga estará disponível, muito em breve. Assim que estiver pronto, substituirei esta linha pelo link para acesso.
 <br><br>
 
-🔗 **[Clique Aqui para acessar o dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiOWM1NmViNGYtMmMxNC00M2M2LWI3NzEtNDg1NDgyNjAwZDFhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
+**[Clique Aqui para acessar o dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiOWM1NmViNGYtMmMxNC00M2M2LWI3NzEtNDg1NDgyNjAwZDFhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
 <br>
 
 **Importante:** Caso o link esteja indisponível, seja por ter expirado, seja por manutenção ou por qualquer outro motivo, ainda assim será possível acessar o relatório baixando o arquivo .pbix que está disponível na pasta Projetc deste repositório.
 
 ---
 
-## 🛠️ Engenharia e Tecnologias
+## Engenharia e Tecnologias
 O projeto foi desenvolvido simulando um ciclo completo de BI:
 
 * **Excel (Data Engineering):**
@@ -36,7 +36,7 @@ O projeto foi desenvolvido simulando um ciclo completo de BI:
 
 ---
 
-## ⚠️ Nota de Execução
+### Nota de Execução
 > **Atenção:** Como o Power BI utiliza caminhos absolutos para fontes de dados locais, ao baixar e abrir o arquivo .pbix na sua máquina, é necessário reconectar a fonte de dados:
 > 1. No Power BI, vá em **Transformar Dados > Configurações da fonte de dados**.
 > 2. Clique em **Alterar Fonte**.
@@ -44,8 +44,8 @@ O projeto foi desenvolvido simulando um ciclo completo de BI:
 > 4. Não esqueça, caso resolva optar por baixar os arquivos, de especificar em quais pastas eles serão armazenados. Recomendo que seja utilizada a mesma estrutura que você está encontrando aqui, porque se mudar a fonte de dados, isto é, o arquivo .xlsx, deverá realizar uma nova atualização, conforme mostrado no item 1.
 
 ---
-
-## 💡 Algumas Imagens da Análise <br>
+<br><br>
+## Algumas Imagens da Análise <br>
 
 ### 1. Evolução Histórica
 Monitoramento da trajetória de crescimento desde a inauguração da primeira loja, o período de adaptação de um ano após a inauguração da última loja e três anos de maturação com volume de produção ascendente.
@@ -64,7 +64,7 @@ Visão integrada da participação no mercado , do ranking de eficiência por fi
 
 ---
 <br><br>
-## 📊 Análise de Dados e Insights de Negócio
+## Análise de Dados e Insights de Negócio
 
 A seguir, a análise realizada após a criação dos visuais com os dados transformados. 
 
@@ -99,7 +99,7 @@ Embora existam os picos concentrados nas semanas em que ocorrem a Black Friday e
 
 ---
 
-### ✅ Conclusão
+### Conclusão
 O projeto simula um cenário de varejo saudável e resiliente. A empresa, após ter encerrado o seu cronograma de inaugurações, procurou consolidar a sua presença em todas as regiões. Com os resultados trazidos pela análise, concluiu-se que o varejo de produtos de necessidade básica consegue superar cenários adversos e complexos, mantendo-se estável. O próximo desafio é buscar entender as disparidades regionais e otimizar quais produtos são mais adequados para as lojas de menor volume.
 
 Desenvolvido por **Ausdauer Tech** | Dezembro 2025*
