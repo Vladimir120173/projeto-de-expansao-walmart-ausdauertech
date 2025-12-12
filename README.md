@@ -60,6 +60,7 @@ Como um MVP, este projeto está em processo de versionamento para inclusão de n
 
 ---
 <br>
+
 ## Algumas Imagens da Análise <br>
 
 ### 1. Evolução Histórica
