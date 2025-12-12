@@ -14,7 +14,7 @@ Este projeto simula um cenário complexo de expansão da rede de varejo Walmart 
 <br>
 
 Um artigo descrevendo como a remodelagem desse dataset disponibilizado pelo Kaggle acabou se tornando uma saga estará disponível, muito em breve. Assim que estiver pronto, substituirei esta linha pelo link para acesso.
-<br><br>
+<br>
 
 **[Clique Aqui para acessar o dashboard interativo](https://app.powerbi.com/view?r=eyJrIjoiOWM1NmViNGYtMmMxNC00M2M2LWI3NzEtNDg1NDgyNjAwZDFhIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)**
 <br>
@@ -59,7 +59,7 @@ Como um MVP, este projeto está em processo de versionamento para inclusão de n
 > 4. Não esqueça, caso resolva optar por baixar os arquivos, de especificar em quais pastas eles serão armazenados. Recomendo que seja utilizada a mesma estrutura que você está encontrando aqui, porque se mudar a fonte de dados, isto é, o arquivo .xlsx, deverá realizar uma nova atualização, conforme mostrado no item 1.
 
 ---
-<br><br>
+<br>
 ## Algumas Imagens da Análise <br>
 
 ### 1. Evolução Histórica
