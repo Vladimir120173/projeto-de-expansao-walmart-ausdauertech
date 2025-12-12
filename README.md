@@ -1,9 +1,11 @@
 # Análise de Expansão Walmart (MVP v1.0)
 
-> **Status do Projeto:** 🚧 MVP (Produto Mínimo Viável) / Em fase de aprimoramento e versionamento.
+**Status do Projeto:** 🚧 MVP (Produto Mínimo Viável) / Em fase de aprimoramento e versionamento.
 <br>
 
 ![Tela Inicial](Imagens/1.Tela_Inicial.png)
+
+<br>
 
 ## Visão Geral
 Este projeto simula um cenário complexo de expansão da rede de varejo Walmart em um país fictício ao longo de 9 anos (2016-2025). O objetivo é demonstrar como um **Relatório de Dados Estratégico** permite à diretoria analisar o impacto de inaugurações, a eficiência regional e as correlações com indicadores macroeconômicos. O relatório foi gerado após a remodelagem e a ampliação de um dataset simples, disponibilizado pelo **[Kaggle](https://www.kaggle.com/datasets/mikhail1681/walmart-sales)**.
@@ -20,6 +22,7 @@ Um artigo descrevendo como a remodelagem desse dataset disponibilizado pelo Kagg
 **Importante:** Caso o link esteja indisponível, seja por ter expirado, seja por manutenção ou por qualquer outro motivo, ainda assim será possível acessar o relatório baixando o arquivo .pbix que está disponível na pasta Projetc deste repositório.
 
 ---
+<br>
 
 ## Engenharia e Tecnologias
 O projeto foi desenvolvido simulando um ciclo completo de BI:
@@ -46,7 +49,7 @@ Como um MVP, este projeto está em processo de versionamento para inclusão de n
 - [ ] Implementação de análise preditiva (Forecast) utilizando Python integrado ao Power BI.
 
 ---
-<br><br>
+<br>
 
 ### Nota de Execução
 > **Atenção:** Como o Power BI utiliza caminhos absolutos para fontes de dados locais, ao baixar e abrir o arquivo .pbix na sua máquina, é necessário reconectar a fonte de dados:
