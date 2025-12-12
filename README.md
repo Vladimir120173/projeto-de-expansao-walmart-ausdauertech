@@ -45,10 +45,10 @@ O projeto foi desenvolvido simulando um ciclo completo de BI:
 
 ### 🚀 Roadmap (Próximos Passos)
 Como um MVP, este projeto está em processo de versionamento para inclusão de novas <i>features</i>:
-- [ ] Refinamento da correlação com indicadores macroeconômicos externos.
-- [ ] Otimização de performance do DAX para grandes volumes de dados.
-- [ ] Implementação de análise preditiva (Forecast) utilizando Python integrado ao Power BI.
-<br><br>
+- Refinamento da correlação com indicadores macroeconômicos externos.
+- Otimização de performance do DAX para grandes volumes de dados.
+- Implementação de análise preditiva (Forecast) utilizando Python integrado ao Power BI.
+<br>
 ---
 
 ### Nota de Execução
