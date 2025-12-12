@@ -80,7 +80,7 @@ Visão integrada da participação no mercado , do ranking de eficiência por fi
 
 
 ---
-<br>
+
 
 ## Análise de Dados e Insights de Negócio
 
@@ -97,7 +97,7 @@ A análise segmentada por regiões considerou dois momentos distintos: a trajet�
 * **Padrão de Disparidade:** Em quase todas as regiões, observa-se uma divisão clara entre um grupo de lojas com alto volume de vendas e outro com menos.
     * *Exemplo:* Na **Região Sul**, uma única loja destoa significativamente das outras 9, puxando a média para cima.
     * *Exemplo:* Na **Região Central**, o desempenho é mais homogêneo entre as 6 principais, com apenas 2 unidades abaixo da média.
-* **Nota de Negócio:** É muito importante ressaltar que **menor volume de vendas não significa necessariamente menor rentabilidade**. As lojas com colunas menores provavelmente estão situadas em regiões menores ou com custos operacionais mais baixos, mas sem deixarem de cumprir os seus papéis estratégicos de capilaridade e de presença da marca. Existe a hipótese das lojas que mesmo apresentando os seus volumes de produção menores que as outras serem mais rentáveis para a rede. Uma nova análise para confirmar esses números pode ser providenciada, porém é necessário que outras informações pertinentes ao contexto sejam fornecidas.
+* **Nota de Negócio:** É muito importante ressaltar que **menor volume de vendas não significa necessariamente menor rentabilidade**. As lojas com colunas menores provavelmente estão situadas em regiões menores ou com custos operacionais mais baixos, mas sem deixarem de cumprir os seus papéis estratégicos de capilaridade e de presença da marca. Existe a hipótese das lojas que mesmo apresentando os seus volumes de produção menores que as outras serem mais rentáveis para a rede. Uma nova análise para confirmar esses números pode ser providenciada, porém é necessário que outras informações pertinentes ao contexto sejam fornecidas.<br><br>
 
 
 ### 3. Correlações com Fatores Externos
@@ -106,7 +106,7 @@ Ao cruzar o volume de vendas com indicadores macroeconômicos e ambientais, por 
 * **Combustível e Desemprego:**
     * ***Preço do Combustível:*** Alguns outliers de alta performance provocaram a inclinação na linha de tendência, porém, a **concentração de dados**, ou seja, a massa principal de lojas, permanece estável no patamar médio de faturamento. Isso indica que não houve influência significativa do aumento no preço do combustível sobre as vendas. **Conclusão:** O cliente manteve o padrão de consumo.
     * ***Desemprego:*** Existe uma concentração estável nas lojas que venderam mais. No entanto, a maior quantidade está situada na média e demonstra que as lojas continuaram a vender, mesmo com o aumento da taxa de desemprego. A hipótese levantada é que essas unidades estejam situadas em regiões nas quais a população possua maior **poder aquisitivo** ou que a dependência do emprego formal seja menor.
-* **Inflação (IPC):** Esta foi outra correlação em que houve uma concentração estável com volume maior de vendas. Isso reforça que as variações dos índices de inflação não afetam determinadas regiões que continuaram com suas vendas no mesmo patamar, da mesma forma que a maioria, situada na média.
+* **Inflação (IPC):** Esta foi outra correlação em que houve uma concentração estável com volume maior de vendas. Isso reforça que as variações dos índices de inflação não afetam determinadas regiões que continuaram com suas vendas no mesmo patamar, da mesma forma que a maioria, situada na média.<br><br>
 
 
 ### 4. Feriados
